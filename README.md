@@ -1,1 +1,2 @@
-# 01_inicio
+#Proyecto el ganso negro
+*** Brayan Velazquez**
